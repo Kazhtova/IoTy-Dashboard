@@ -4,8 +4,6 @@
 >
 > **Bahasa Indonesia:** Aplikasi berbasis web yang komprehensif dan terpusat, dirancang untuk mengelola operasi inventaris, melacak transaksi barang masuk dan keluar.
 
----
-
 ## Features (Fitur)
 
 * **Dashboard Analitik (Analytics Dashboard):** Visualisasi data ringkas mengenai status inventaris.
