@@ -3,7 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-
+// Lol
 class LaporanKenaikanHarga extends Model
 {
     protected $guarded = ['id'];
