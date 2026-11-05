@@ -1,7 +1,5 @@
 # Invenkoryz - Inventory Management System
 
----
-
 > **English:** A comprehensive and centralized web-based application designed to manage inventory operations, track inbound and outbound transactions.
 >
 > **Bahasa Indonesia:** Aplikasi berbasis web yang komprehensif dan terpusat, dirancang untuk mengelola operasi inventaris, melacak transaksi barang masuk dan keluar.
