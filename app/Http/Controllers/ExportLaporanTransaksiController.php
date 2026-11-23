@@ -20,7 +20,7 @@ class ExportLaporanTransaksiController extends Controller
         $tanggalAwal = $request->tanggal_awal;
         $tanggalAkhir = $request->tanggal_akhir;
         $isCompleted = $request->is_completed;
-
+// 
         if($isCompleted){
             return $this->downloadFullReport($jenisTransaksi, $pengirim, $penerima, $tanggalAwal, $tanggalAkhir);
         }else{
