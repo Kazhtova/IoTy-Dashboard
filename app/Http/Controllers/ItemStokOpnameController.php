@@ -6,7 +6,7 @@ use App\Models\ItemStokOpname;
 use App\Models\PeriodeStokOpname;
 use App\Models\VarianProduk;
 use Illuminate\Http\Request;
-
+// 
 class ItemStokOpnameController extends Controller
 {
     public function updateProduk(Request $request){
