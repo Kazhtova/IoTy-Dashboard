@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers;
+// namespace App\Http\Controllers;
 
 use App\Http\Requests\storeTransaksiKeluarRequest;
 use App\Http\Requests\storeTransaksiMasukRequest;
