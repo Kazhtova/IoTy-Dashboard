@@ -7,7 +7,7 @@ use App\Http\Requests\updateKategoriRequest;
 use App\Http\Requests\updateKategoriProdukRequest;
 use App\Models\KategoriProduk;
 use Illuminate\Http\Request;
-
+// 
 class KategoriProdukController extends Controller
 {
     public $pageTitle = 'KategoriProduct';
@@ -16,7 +16,7 @@ class KategoriProdukController extends Controller
         $perpage = request()->query('perPage') ?? 10;
         $search = request()->query('search');
         $query = KategoriProduk::query();
-
+// 
         if($search) {
             $query->where('nama_kategori', 'like', '%' . $search . '%');
         }
