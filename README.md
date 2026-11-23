@@ -6,8 +6,6 @@
 >
 > 
 
----
-
 ## Features (Fitur)
 
 * **Dashboard Analitik (Analytics Dashboard):** Visualisasi data ringkas mengenai status inventaris.
