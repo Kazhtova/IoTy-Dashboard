@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\LaporanKenaikanHarga;
-// use Illuminate\Http\Request;
+use Illuminate\Http\Request;
 
 class LaporanKenaikanHargaController extends Controller
 {
