@@ -16,7 +16,7 @@ class KategoriProdukController extends Controller
         $perpage = request()->query('perPage') ?? 10;
         $search = request()->query('search');
         $query = KategoriProduk::query();
-// 
+
         if($search) {
             $query->where('nama_kategori', 'like', '%' . $search . '%');
         }
