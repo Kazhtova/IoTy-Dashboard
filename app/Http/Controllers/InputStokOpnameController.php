@@ -7,7 +7,7 @@ use App\Models\ItemStokOpname;
 use App\Models\PeriodeStokOpname;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-
+// 
 class InputStokOpnameController extends Controller
 {
     public $pageTitle = "Input Laporan Stok Opname", $activePeriode = null, $items = null;
