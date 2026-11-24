@@ -9,7 +9,7 @@ use App\Models\PeriodeStokOpname;
 use App\Models\VarianProduk;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
-// 
+
 class PeriodeStokOpnameController extends Controller
 {
     public $pageTitle = "Periode Stok Opname";
