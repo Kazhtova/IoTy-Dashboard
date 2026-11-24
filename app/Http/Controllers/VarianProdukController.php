@@ -8,7 +8,7 @@ use App\Http\Resources\KartuResource;
 use App\Models\KartuStok;
 use App\Models\LaporanKenaikanHarga;
 use App\Models\VarianProduk;
-use Illuminate\Http\Request;
+// use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Storage;
 
