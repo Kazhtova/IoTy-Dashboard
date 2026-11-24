@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\KategoriProduk;
 use App\Models\VarianProduk;
 use Illuminate\Http\Request;
-// 
+
 class StokBarangController extends Controller
 {
     public $pageTitle = 'Stok Barang';
