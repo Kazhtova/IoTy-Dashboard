@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use App\Http\Requests\storeProdukRequest;
 use App\Http\Requests\updateProdukRequest;
 use App\Models\Produk;
-// use Illuminate\Http\Request;
 
 class ProdukController extends Controller
 {
